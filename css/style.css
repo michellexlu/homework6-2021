@@ -143,6 +143,7 @@ header{
   }
   /*Requirement 15*/
   .nav_links{
+    display: flex;
     flex-direction: row;
     justify-content: space-around;
   }
